@@ -1,1 +1,1 @@
-# npjug.github.io
+# Nepal Java User Group (NepalJUG)
